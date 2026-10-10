@@ -1,4 +1,5 @@
-﻿#include "pch.h"
+﻿// Unit test for Lab 5.2
+#include "pch.h"
 #include "CppUnitTest.h"
 #include "../Lab_5.2/Source.cpp" // Переконайтеся, що назва папки відповідає вашій (наприклад, Lab_5_2 чи Project5_2)
 
